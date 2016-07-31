@@ -1,0 +1,30 @@
+[submodule "anna"]
+	path = anna
+	url = git@github.com:ACollins89/acollins-tate-gallery.git
+[submodule "brad"]
+	path = brad
+	url = git@github.com:bmath1019/bmatheson-final-project.git
+[submodule "christina"]
+	path = christina
+	url = git@github.com:cenglish89/Final-Project.git
+[submodule "chuck"]
+	path = chuck
+	url = git@github.com:charlespedro/adat-final-project.git
+[submodule "jon"]
+	path = jon
+	url = git@github.com:bessjc12/JBess_final_project.git
+[submodule "maria"]
+	path = maria
+	url = git@github.com:mapagron/mgandur---final-project.git
+[submodule "melissa"]
+	path = melissa
+	url = git@github.com:melissamaynard/Maynardfinal.git
+[submodule "mike"]
+	path = mike
+	url = git@github.com:mike-bales/police-fatality-data-viz.git
+[submodule "richard"]
+	path = richard
+	url = git@github.com:rmcarder/final-project-template-rmcarder.git
+[submodule "vivian"]
+	path = vivian
+	url = git@github.com:vivhou/D3-final-project.git
